@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://alimohamed33.github.io/our_team_page/">
       Demo
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://github.com/alimohamed33/our_team_page">
       Solution
     </a>
     <span> | </span>
